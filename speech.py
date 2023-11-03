@@ -1,3 +1,5 @@
+''' Copyrights Reserved with
+Ashutosh Kapoor STUDENT OF BBDEC LKO 2021-2025 BATCH'''
 import os
 import tkinter
 from tkinter import *
